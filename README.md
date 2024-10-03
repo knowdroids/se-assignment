@@ -12,4 +12,4 @@
     - postgresql database
     - with persistent data volume (so compose up and down won`t lose data)
 - the project should be easily started with `docker compose up`
-- push it to public github repo and mail to jakub.jun@knowdroids.ai next week 11.3. - 17.3.
+- push it to public github repo and mail to jakub.jun@knowdroids.ai next week 7.10. - 13.10.
